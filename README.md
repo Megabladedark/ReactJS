@@ -6,6 +6,7 @@
 ### `serve -s build`
 # Github
 ### Tạo resposity + modified Readme.md
+`**git remote add origin https://github.com/Megabladedark/ReactJS.git**`
 ### `git add .`
 ### `git commit -m "message"`
 ### `git push`
