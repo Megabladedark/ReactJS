@@ -1,4 +1,6 @@
 # Command line
+**ls/ll**
+**mkdir**
 ### `npx create-react-app ten_project`
 ### `npm run build`
 ### `npm start`
@@ -10,3 +12,5 @@
 ### `git add .`
 ### `git commit -m "message"`
 ### `git push`
+**git status**
+**git push**
